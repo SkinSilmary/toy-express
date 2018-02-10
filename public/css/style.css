@@ -1,0 +1,16 @@
+a:link {
+  color: red;
+  text-decoration: none; }
+
+a:visited {
+  color: black; }
+
+a:hover {
+  color: blue;
+  text-decoration: underline; }
+
+.left-menu {
+  color: red; }
+
+.right-menu {
+  color: blue; }

@@ -5,7 +5,8 @@
   "repository": "https://github.com/SkinSilmary/toy-express.git",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon server.js"
+    "dev": "nodemon server.js",
+    "build-sass": "node-sass ./public/css/style.scss -o ./public/css/" 
   },
   "dependencies": {
     "ejs": "^2.5.7",
